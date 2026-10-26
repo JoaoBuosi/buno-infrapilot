@@ -1,0 +1,4 @@
+services:
+ app:
+  build: .
+  ports: ["8104:8080"]
